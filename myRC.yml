@@ -9,7 +9,8 @@ spec:
    template:
      metadata:
        labels:
-          app: myjavaapp  
+          app: myjavaapp
+          version: 2.6.1
      spec:
        containers:
        - name: myjavacontainer
