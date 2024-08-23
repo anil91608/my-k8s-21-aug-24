@@ -10,7 +10,6 @@ spec:
      metadata:
        labels:
           app: myjavaapp
-          
      spec:
        containers:
        - name: myjavacontainer
